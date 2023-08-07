@@ -1,0 +1,3 @@
+kivy[base]
+kivymd==1.1.1
+psycopg2==2.9.6
